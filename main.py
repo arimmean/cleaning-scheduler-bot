@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Замените на ваш токен
-TOKEN = '7778799315:AAEkpTqYlkP0Z8sotN-j_KOjwJINnWtXgH0'
+TOKEN = 'TOKEN'
 SUBSCRIBERS_FILE = 'subscribers.json'
 INDEX_FILE = 'index.json'
 
